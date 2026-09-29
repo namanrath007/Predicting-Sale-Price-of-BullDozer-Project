@@ -1,0 +1,7 @@
+bluebook-for-bulldozers.zip
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+Data/bluebook-for-bulldozers/*.zip
+Data/bluebook-for-bulldozers/*.7z
